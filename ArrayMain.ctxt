@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArrayMain
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Our\ main\ method.\r\n\ \ -\ Prompt\ user\ for\ a\ \#\ of\ elements.\r\n\ \ -\ Create\ array\ of\ that\ size,\ using\ random\ values\ in\ the\ range\r\n\ \ \ \ -1000\ to\ 1000,\ inclusive.\r\n\ \ -\ Compute\ and\ print\ various\ things\ about\ the\ array's\ contents.\r\n\ @param\ args\r\n
+comment2.params=
+comment2.target=int\ getNumElements()
+comment3.params=numElements
+comment3.target=int[]\ createNumberArray(int)
+numComments=4
