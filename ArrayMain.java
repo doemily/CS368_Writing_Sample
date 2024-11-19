@@ -114,26 +114,7 @@ public class ArrayMain {
         
         // ***** CHECKPOINT 8 *****
         // Print the sorted numbers up to 10 per line
-        // HINT: This can be done inside the loop from Checkpoint 7
         
-    }
-        
-        
-        /* 
-         * Justification: The comment was added to make it clear that students don't need to create a separate loop for Checkpoint 8.
-         * It's common for students to see new instructions and immediately think: "time to write new code for this", but in this case,
-         * it makes more sense to combine it with the existing loop from Checkpoint 7.
-         * 
-         * Context: By Checkpoint 7, students have already written a loop to iterate through and print the numbers. Checkpoint 8 builds
-         * directly on this by asking them to add formatting. The comment assumes that students have implemented a straight forward loop in
-         * Checkpoint 7 and prompts them to add a condition for line breaks within that same loop. 
-         * 
-         * Importance: This hint allows students to build better coding habits. It shows them how to be efficient by combining tasks to avoid
-         * extra work as well as writing clean code by keeping things simple and organized. Additionally, it shows the importance of nested loops. 
-         * By adding this comment, this guides the students towards the idea of not having to rewrite loops that loop through the same contents.
-         * The student learns how to iterate through a collection systematically and introduces them to additional logic inside loops by adding
-         * more than just one condition inside a loop.
-         */
         
         
     
